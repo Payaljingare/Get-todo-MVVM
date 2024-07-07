@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="search_hint">Search todos</string>
+    <string name="show_completed">Show Completed</string>
+    <string name="no_todos_found">No todos found</string>
+    <string-array name="todo_filters">
+        <item>All</item>
+        <item>Completed</item>
+        <item>Not Completed</item>
+    </string-array>
+</resources>
